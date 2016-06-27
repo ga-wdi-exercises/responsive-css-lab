@@ -1,4 +1,13 @@
-## Learn Responsive CSS
+---
+title:  Learn Responsive CSS
+type: lab
+duration: "1:25"
+creator:
+    name: James Traver
+    city: CHI
+---
+
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Learn Responsive CSS
 
 This repository is meant to be forked, cloned, and played with. It contains the following file structure:
 
