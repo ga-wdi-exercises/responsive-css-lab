@@ -1,7 +1,7 @@
 ---
 title:  Learn Responsive CSS
 type: lab
-duration: "1:25"
+duration: "0:30"
 creator:
     name: James Traver
     city: CHI
